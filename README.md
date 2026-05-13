@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre y Apellido] 👋
+# ¡Hola! Soy [EITHER LOZADA] 👋
 
 Bienvenido a mi portafolio de Ciberseguridad. Soy estudiante de Ingeniería en  Informatica y actualmente me estoy especializando en la seguridad de aplicaciones web (AppSec), ciberseguridad financiera y defensa de redes.
 
